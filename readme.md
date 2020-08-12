@@ -3,7 +3,7 @@ Repository to test difference how Lecacy and new BPMN designers handle empty Err
 ## LegacyNoNameErrorHandling
 ![](src/main/resources/com/myspace/errortest/LegacyNoNameErrorHandling-svg.svg)
 
-### XML
+### Legacy XML
 ```xml
 <bpmn2:error id="_3dd11b62-6f7c-4822-ae03-953631f71677"/>
 <bpmn2:error id="_820fae4e-469e-3708-8872-bb1244a3b6b1" errorCode="errorName" name="errorName"/>
@@ -28,7 +28,7 @@ Repository to test difference how Lecacy and new BPMN designers handle empty Err
 
 ## StunnerNoNameErrorHandling
 ![](src/main/resources/com/myspace/errortest/StunnerNoNameErrorHandling-svg.svg)
-### XML
+### New XML
 ```xml
 <bpmn2:error id="_0DE22AA6-09D8-488C-9DCC-82CFA510F414"/>
 <bpmn2:error id="_DB385710-A715-45C8-A421-510C93179FB7"/>
